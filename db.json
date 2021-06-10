@@ -8,7 +8,6 @@
     "location": "Meow Town",
     "date": "January 28, 2022",
     "time": "12:00",
-    "petsAllowed": true,
     "organizer": "Kat Laydee"
    },
    {
@@ -19,7 +18,6 @@
     "location": "Meow Town",
     "date": "January 28, 2022",
     "time": "12:00",
-    "petsAllowed": true,
     "organizer": "Kat Laydee"
    },
    {
@@ -30,7 +28,6 @@
     "location": "Meow Town",
     "date": "January 28, 2022",
     "time": "12:00",
-    "petsAllowed": true,
     "organizer": "Kat Laydee"
    }
  ]
